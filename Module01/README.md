@@ -4,7 +4,7 @@
 ## Controls
 
 - 1, 2 and 3 to switch between characters
-- A,D and Space to move and jump
+- A,D and Space to move and jump, Left and right arrow to spin.
 - Backspace to reset the level
 - ESC to exit the game
 
