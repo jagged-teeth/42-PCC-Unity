@@ -12,8 +12,8 @@
 
 Each cube needs to reach its designed spot.
 
-### Level 1 - Basic movement mechanics
+#### Level 1 - Basic movement mechanics
 
-### Level 2 - Character specific platforms
+#### Level 2 - Character specific platforms
 
-### Level 3 - Teleporters, moving platforms, wall jumps.
+#### Level 3 - Teleporters, moving platforms, wall jumps.
