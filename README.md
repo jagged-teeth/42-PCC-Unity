@@ -1,5 +1,9 @@
 # UNITY : Learning the ropes
 
+<div id="header" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" height="300"/>
+</div>
+
 ## Introduction
 
 Welcome to my Unity learning journey! This repository is a collection of five demos/games I created while diving deep into the world of Unity. Each project represents a step in my journey, showcasing both my growth and the challenges I encountered along the way. From understanding basic game objects to grappling with 3D gaming and AI, these projects are a testament to my learning curve and my commitment to mastering Unity.
