@@ -46,7 +46,7 @@ On a side note, a couple of these games have a Windows .exe
 - `R` to reload scene
 
 ### Thomas & friend
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://i.ibb.co/xYSg1ZM/Screenshot-from-2023-11-13-13-56-32.png" height="200"/>
 </div>
 
@@ -61,7 +61,7 @@ On a side note, a couple of these games have a Windows .exe
 - `BACKSPACE` to reload scene
 
 ### Tower Defense
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://i.ibb.co/f0kzd9k/Screenshot-from-2023-11-13-13-57-59.png" height="200"/>
 </div>
 
@@ -72,7 +72,7 @@ On a side note, a couple of these games have a Windows .exe
 - `ESC` to toggle menu
 
 ### 2D Scroller
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://i.ibb.co/L8bDm1d/Screenshot-from-2023-11-13-13-59-43.png" height="200"/>
 </div>
 
@@ -85,7 +85,7 @@ On a side note, a couple of these games have a Windows .exe
 - `ESC` to toggle menu
 
 ### John Lemon
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://i.ibb.co/wWbbF3F/Screenshot-from-2023-11-13-14-00-43.png" height="200"/>
 </div>
 
