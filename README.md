@@ -33,7 +33,7 @@ On a side note, a couple of these games have a Windows .exe
 ## The Games
 
 ### The floor is lava
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://i.ibb.co/pfYjc89/Screenshot-from-2023-11-13-13-55-25.png" height="200"/>
 </div>
 
