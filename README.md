@@ -97,6 +97,7 @@ On a side note, a couple of these games have a Windows .exe
 - `mouse` to rotate/look
 - `ESC` to quit
 
+Watch a short demo video down here !
 [![Watch the video](https://img.youtube.com/vi/y84CE6pwrIc/default.jpg)](https://www.youtube.com/watch?v=y84CE6pwrIc)
 
 
