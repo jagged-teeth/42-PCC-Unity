@@ -26,9 +26,8 @@ Throughout these projects, I've not only honed my Unity skills but also bridged 
 These games were developed in Unity and are primarily designed for Ubuntu. To get started:
 
 1. Clone the repository.
-1. Run the executables to play each game.
-
-On a side note, a couple of these games have a Windows .exe
+2. Run the executables to play each game. (executables available for both windows and ubuntu)
+3. If you're too lazy you can just check quick snippets of gameplay on [youtube](https://www.youtube.com/watch?v=uTv_Bbfm95M)
 
 ## The Games
 
@@ -37,9 +36,9 @@ On a side note, a couple of these games have a Windows .exe
   <img src="https://i.ibb.co/pfYjc89/Screenshot-from-2023-11-13-13-55-25.png" height="200"/>
 </div>
 
-**Concepts:** Basic Game Objects, Basic Physics  
-**Summary:** A straightforward game where you control a ball navigating through hazardous environments, avoiding the lava. It's simple, yet fun!  
-**Controls:**  
+**Concepts:** Basic Game Objects, Basic Physics
+**Summary:** A straightforward game where you control a ball navigating through hazardous environments, avoiding the lava. It's simple, yet fun!
+**Controls:**
 - `WASD` to move
 - `SPACE` to jump
 - `ESC` to quit
@@ -50,9 +49,9 @@ On a side note, a couple of these games have a Windows .exe
   <img src="https://i.ibb.co/xYSg1ZM/Screenshot-from-2023-11-13-13-56-32.png" height="200"/>
 </div>
 
-**Concepts:** 3D Scrolling, Physics, Layers, Tags, Scene Management  
-**Summary:** Control three cube characters in a series of puzzles, leveraging their unique abilities to conquer each stage.  
-**Controls:**  
+**Concepts:** 3D Scrolling, Physics, Layers, Tags, Scene Management
+**Summary:** Control three cube characters in a series of puzzles, leveraging their unique abilities to conquer each stage.
+**Controls:**
 - `AD` to move
 - `LEFT AND RIGHT ARROWS` to spin
 - `SPACE` to jump
@@ -65,9 +64,9 @@ On a side note, a couple of these games have a Windows .exe
   <img src="https://i.ibb.co/f0kzd9k/Screenshot-from-2023-11-13-13-57-59.png" height="200"/>
 </div>
 
-**Concepts:** 2D Graphics, Tiles, Sprites, Prefabs, NavMesh AI, Dynamic UI  
-**Summary:** A classic tower defense setup with a twist. Engage in strategic gameplay enhanced by diverse UI elements and AI behaviors.  
-**Controls:**  
+**Concepts:** 2D Graphics, Tiles, Sprites, Prefabs, NavMesh AI, Dynamic UI
+**Summary:** A classic tower defense setup with a twist. Engage in strategic gameplay enhanced by diverse UI elements and AI behaviors.
+**Controls:**
 - `Left click` to drag and drop a turret
 - `ESC` to toggle menu
 
@@ -76,9 +75,9 @@ On a side note, a couple of these games have a Windows .exe
   <img src="https://i.ibb.co/L8bDm1d/Screenshot-from-2023-11-13-13-59-43.png" height="200"/>
 </div>
 
-**Concepts:** State Machines, Animation, Sound, Singleton, PlayerPrefs, Coroutines  
-**Summary:** Embark on an adventure with a warrior collecting sake across 2 different levels. Features parallax backgrounds, sleek animations and in-depth learning about game management patterns.  
-**Controls:**  
+**Concepts:** State Machines, Animation, Sound, Singleton, PlayerPrefs, Coroutines
+**Summary:** Embark on an adventure with a warrior collecting sake across 2 different levels. Features parallax backgrounds, sleek animations and in-depth learning about game management patterns.
+**Controls:**
 - `AD` to move
 - `SHIFT` to dash
 - `SPACE` to jump
@@ -89,17 +88,13 @@ On a side note, a couple of these games have a Windows .exe
   <img src="https://i.ibb.co/wWbbF3F/Screenshot-from-2023-11-13-14-00-43.png" height="200"/>
 </div>
 
-**Concepts:** 3D Gaming, NavMesh, AI, Special Effects, Camera and Movement  
-**Summary:** Navigate John Lemon through a gloomy house, evading ghosts to find keys and unlock the path to victory.  
-**Controls:**  
+**Concepts:** 3D Gaming, NavMesh, AI, Special Effects, Camera and Movement
+**Summary:** Navigate John Lemon through a gloomy house, evading ghosts to find keys and unlock the path to victory.
+**Controls:**
 - `WASD` to move
 - `TAB` to change camera
 - `mouse` to rotate/look
 - `ESC` to quit
-
-Watch a short demo video down here !
-[![Watch the video](https://img.youtube.com/vi/y84CE6pwrIc/default.jpg)](https://www.youtube.com/watch?v=y84CE6pwrIc)
-
 
 ## Conclusion
 Each of these projects was a step in my learning path, filled with both achievements and challenges. While they may not be perfect, they reflect my dedication and passion for game development. I invite you to explore these games and learn from them !
